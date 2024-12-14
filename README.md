@@ -3,7 +3,7 @@
 ### Object Pooling 
 Object pooling is a design pattern that manages the efficient creation and reuse of objects. 
 It improves performance, optimizes memory management, and eliminates the overhead caused by continuous instantiation and destruction of game objects.
-\n **Real-life example in Game Designs:  ObjectPool Class for Bullets**
+<br>**Real-life example in Game Designs:  ObjectPool Class for Bullets**</br>
 
 *Steps of the Object Pooling Pattern:*
 1. Initialize Pool: Pre-instantiate a fixed number of objects and store them in a collection (e.g., a list or queue).
