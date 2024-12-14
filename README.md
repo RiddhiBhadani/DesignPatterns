@@ -16,7 +16,7 @@ It improves performance, optimizes memory management, and eliminates the overhea
 The Singleton pattern ensures that a class has only one instance and provides a global point of access to it. 
 It simplifies the management of shared resources and avoids the creation of multiple instances.
 
-*Steps of the Factory Singleton Pattern:*
+*Steps of the Singleton Pattern:*
 1. Create Static Instance: Declare a static variable to hold the instance of the class.
 2. Ensure Single Instance: In the Awake or Start method, check if the instance is null. If it is, assign the current object to the instance; if not, destroy the duplicate.
 3. Global Access: Provide a public static property or method to access the instance from other parts of the application.
