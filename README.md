@@ -10,7 +10,7 @@ It improves performance, optimizes memory management, and eliminates the overhea
 3. Activate Object: Enable and use the object as required.
 4. Return to Pool: Deactivate the object and return it to the pool for future use.
 5. Handle Shortages: Optionally expand the pool if all objects are in use.
-   **Real-life example in Game Designs:  ObjectPool Class for Bullets**
+**Real-life example in Game Designs:  ObjectPool Class for Bullets**
 
 ### Singleton Pattern
 The Singleton pattern ensures that a class has only one instance and provides a global point of access to it. 
