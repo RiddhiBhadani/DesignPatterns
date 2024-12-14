@@ -1,4 +1,4 @@
-# DesignPatterns
+# Design Patterns in Game Design
  
 ### Object Pooling 
 Object pooling is a design pattern that manages the efficient creation and reuse of objects. 
